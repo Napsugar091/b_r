@@ -1,0 +1,43 @@
+[
+    {
+        "name":"Gulyás",
+        "photoUrl":"./img/gulyasleves.jpeg",
+        "description":"A gulyás az egyik leghíresebb az összes magyar fogás közül, ennek ellenére a mai napig nem ismeri mindenki e hazai különlegesség eredetét."        
+    },
+    {
+        "name":"Halászlé",
+        "photoUrl":"./img/halaszle.jpeg",
+        "description":"A halászlé a gulyáshoz hasonlóan egy igazi magyar étel, és ugyan úgy bográcsban érdemes elkészíteni a valódi ízek érdekében."      
+    },
+    {
+        "name":"Lángos",
+        "photoUrl":"./img/langos.jpg",
+        "description":"Az örök magyar kedvenc kétségtelenül a lángos, a híres, diétákat romba döntő olajban sült tészta."       
+    },
+    {
+        "name":"Főzelék",
+        "photoUrl":"./img/fozelek.jpg",
+        "description":"A főzelék azon kevés magyar ételek egyike, amelyet még egy fogyókúra alatt is nyugodtan fogyaszthat az ember (habár ez a felhasznált hozzávalóktól is függ)."        
+    },
+    {
+        "name":"Somlói galuska",
+        "photoUrl":"./img/somloi-galuska.jpg",
+        "description":"Magyarország kedvenc süteménye nem hiába érdemelte ki ezt az előkelő címet."        
+    },
+    {
+        "name":"Pörkölt és paprikás",
+        "photoUrl":"./img/porkolt.jpg",
+        "description":"A pörkölt készülhet marhából, borjúból, csirkéből, disznóból vagy májból is, de a hagyma, a paprika és egyéb fűszerek mindenhol alapvető hozzávalóknak számítanak."        
+    },
+    {
+        "name":"Dobos torta",
+        "photoUrl":"./img/dobost.jpg",
+        "description":"A dobos torta története 1885-ben kezdődik, amikor Dobos C. József magyar cukrász bemutatta egyedi alkotását a Budapesti Általános Kiállításon."        
+    },
+    {
+        "name":"Töltött káposzta",
+        "photoUrl":"./img/toltott-kap.jpg",
+        "description":"A töltött káposzta leggyakrabban húsvét és karácsony idején kerül az asztalokra, de természetesen az év más időszakaiban sem tilos fogyasztani."        
+    }
+
+]
